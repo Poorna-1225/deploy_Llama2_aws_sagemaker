@@ -1,0 +1,7 @@
+{
+    "AWS_ACCESS_KEY_ID": "your value",
+    "AWS_SECRET_ACCESS_KEY": "your value",
+    "AWS_DEFAULT_REGION": "your region",
+    "ROLE_NAME": "your role name",
+    "HF_TOKEN": "your value"
+}
